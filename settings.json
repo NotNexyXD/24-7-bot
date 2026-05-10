@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "_Stay_Peacefull",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "_StayPeacefull",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "staypeacefull.falix.pro",
+    "port": 21035,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Stay Peacefull or ban",
+        "I said stay peacefull"
       ]
     },
     "chat-log": true,
